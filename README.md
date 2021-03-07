@@ -1,7 +1,6 @@
-# Rabbit-Mq
-
-#How To Run Docker
+# Rabbit-Mq-Sample-Message
+# How To Run Docker
 file current path and then "docker-compose up -d"
 
-#Rabbit Mq Link:
+# Rabbit-Mq
 http://localhost:15672/
